@@ -3,6 +3,12 @@
 ## Description
 This is a simple and user-friendly calculator extension for Google Chrome. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+![preview](https://i.postimg.cc/2yjFQFXs/Screenshot-2023-12-15-214557.png)
+
+![preview](https://i.postimg.cc/MZtYWNnq/Screenshot-2023-12-15-214615.png)
+
+![preview](https://i.postimg.cc/653fTcZR/Screenshot-2023-12-15-214626.png)
+
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - User-friendly interface.
